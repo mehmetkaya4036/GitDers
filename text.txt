@@ -2,3 +2,4 @@ birinci
 birinci sa
 ikinci
 bu satir feature01 branchinda yazildi
+bu satir f2 de yazildi commit edildi
