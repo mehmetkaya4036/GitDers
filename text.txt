@@ -2,5 +2,9 @@ birinci
 birinci sa
 ikinci
 bu satir feature01 branchinda yazildi
+
 master
 yeni satir ekledik
+
+bu satir f2 de yazildi commit edildi
+
