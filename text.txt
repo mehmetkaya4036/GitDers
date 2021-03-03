@@ -10,5 +10,10 @@ bu satir f2 de yazildi commit edildi
 
 yeni f3 brancinda fonksiyon yazilmaya baslandi
 
+
 yerelde yapilan commit
+
+
+BU SATIR GITHUB DA EKLENMISTIR
+
 
